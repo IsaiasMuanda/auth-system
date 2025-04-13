@@ -2,6 +2,9 @@
 
 Sistema de autenticação completo usando Node.js, Express, MongoDB, React e Zustand. Inclui registro de usuário, login com JWT, middleware de proteção de rotas, e envio de e-mails com Mailtrap.
 
+### 🔗 Hospedado na render.com 👇
+https://auth-system-io14.onrender.com
+
 ## 🧰 Tecnologias e Ferramentas
 
 ### Backend
