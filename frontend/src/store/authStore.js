@@ -7,10 +7,10 @@ axios.defaults.withCredentials = true;
 
 export const useAuthStore = create((set) => ({
 	user: null,
-	isAuthenticated: false,//Essa
+	isAuthenticated: false,
 	error: null,
 	isLoading: false,
-	isCheckingAuth: true,//Esta também
+	isCheckingAuth: true,//
 	message: null,
 
 	signup: async (email, password, name) => {
